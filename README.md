@@ -1,4 +1,4 @@
-# 📦 Inventory Management Systmm
+# 📦 Inventory Management System
 
 A fully browser-based Inventory Management System built with vanilla JavaScript, HTML, CSS, and Bootstrap 5. All data is persisted client-side via `localStorage` — no backend or build tools required.
 
